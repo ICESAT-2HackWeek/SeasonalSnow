@@ -1,6 +1,6 @@
-# Sample Project
+# Topohack extension
 
-This is as an example on how teams can structure their project repositories. Thanks to Lindsey Heagey and Joachim Meyer for the template, provided originally for [Geohackweek](https://github.com/geohackweek/sample_project_repository).
+This is an extension of topohack (https://github.com/ICESAT-2HackWeek/topohack). Taking ICESat-2 to the mountains: a workflow using satellite laser altimetry to resolve topography over complex terrain
 
 ## Files
 
