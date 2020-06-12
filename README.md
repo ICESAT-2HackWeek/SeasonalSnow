@@ -5,18 +5,18 @@ IceSat-2 and SWE over mountains: a workflow using satellite laser altimetry to r
 Compare and evaluate ICESat-2 data with high resolution DEMs (airborne lidar/satellite stereo) collected at lower latitudes, charecterize accuracy and explore potential of seasonal SWE estimation. We will be building upon 2019 ICESat-2 HackWeek projects, namely [topohack](https://github.com/ICESAT-2HackWeek/topohack) and []().
 
 ## Collaborators
-David Hill
-Jared Klemm
-Shashank Bhushan
-Anna Valentine
-Charlie Hewitt
-Friedrich Knuth
-Jawaria Ahmad
-Jordi Bolibar
-Kar
-Lucal Zeller
-Michael Loso
-Michelle Hu
+- David Hill
+- Jared Klemm
+- Shashank Bhushan
+- Anna Valentine
+- Charlie Hewitt
+- Friedrich Knuth
+- Jawaria Ahmad
+- Jordi Bolibar
+- Kat Sejan
+- Lucal Zeller
+- Michael Loso
+- Michelle Hu
 
 ### Team Lead 
 Nina Argon
@@ -35,7 +35,7 @@ TBD
 - Python Scientific Analysis Stack, Geospatial Stack
 - [pdal](https://pdal.io/)
 
-### High-level Goals (Tentive High Level Goals)
+### High-level Goals (Tentative)
 - Learn how to access ICESat-2 data efficiently with icepyx.
 - Evaluate/Compare the topography resolved by ICESat-2 ATLO6 profiles along steep mountains with topographic profiles returned from high-resolution DEMs.
 - Get a sense of snow accumulation (depth) by comparing Snow-off DEM over Grand Mesa and other ASO sites with winter (October to February) IceSat-2 collects.
@@ -50,4 +50,4 @@ TBD
 - TBD
 
 ### Team Contribution Workflow:
-    We will strive to follow the [workflow](https://icesat-2hackweek.github.io/learning-resources/projects/example_workflow/) proposed by the Hackweek team. This should makes our life easier, free of any conflicts.
+We will strive to follow the [workflow](https://icesat-2hackweek.github.io/learning-resources/projects/example_workflow/) proposed by the Hackweek team. This should makes our life easier, free of any conflicts.
