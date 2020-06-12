@@ -50,4 +50,4 @@ TBD
 - TBD
 
 ### Team Contribution Workflow:
-We will strive to follow the [workflow](https://icesat-2hackweek.github.io/learning-resources/projects/example_workflow/) proposed by the Hackweek team. This should makes our life easier, free of any conflicts.
+We will strive to follow the [workflow](https://icesat-2hackweek.github.io/learning-resources/projects/example_workflow/) proposed by the Hackweek team. This should make our life easier, free of any *merge* conflicts.
