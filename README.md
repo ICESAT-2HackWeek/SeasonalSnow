@@ -30,18 +30,21 @@ TBD
 - Bareground data ([LULC for US](https://www.mrlc.gov/data/legends/national-land-cover-database-2011-nlcd2011-legend) 
 - [ASO Lidar](https://nsidc.org/data/aso)
 - [WADNR Lidar](http://lidarportal.dnr.wa.gov/)
+- [C-SNOW](https://ees.kuleuven.be/apps/project-c-snow-data/)
 
 ### Tools
 - Python Scientific Analysis Stack, Geospatial Stack
 - [pdal](https://pdal.io/)
+- [icepyx](https://github.com/icesat2py/icepyx)
 
 ### High-level Goals (Tentative)
 - Learn how to access ICESat-2 data efficiently with icepyx.
-- Evaluate/Compare the topography resolved by ICESat-2 ATLO6 profiles along steep mountains with topographic profiles returned from high-resolution DEMs.
+- Evaluate/Compare the topography resolved by ICESat-2 ATLO6 and ATL03 profiles along steep mountains with topographic profiles returned from high-resolution DEMs.
+- Classify IceSat-2 ATL06 or ATL03 measurements as snow-on or snow-off using remote sensing product such as C-SNOW.
 - Get a sense of snow accumulation (depth) by comparing Snow-off DEM over Grand Mesa and other ASO sites with winter (October to February) IceSat-2 collects.
-- Snow-depth to SWE conversion
+- Snow-depth to SWE conversion.
 - Evaluate the accuaracy of the derived SWE.
-- Compare ATL03 with ATL06
+- Compare ATL03 with ATL06. Quantify uncetainty in snow volume estimates using snow depth derived using ATL03 vs ATL06.
 - Breakdown/analyse/process ATLO3 pointcloud using pdal.
 - Surface classification (snow/non-snow, wet-snow/dry snow) using ICESat-2 ATL03/ATL06 data.
 
