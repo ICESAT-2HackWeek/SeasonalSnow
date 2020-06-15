@@ -51,5 +51,5 @@ docker run -it -v ~/entwine:/var/www -p 8080:8080 connormanning/http-server
 open https://potree.entwine.io/data/view.html?r=%22http://127.0.0.1:8080/atl03%22
 ```
 
-
+![potree.gif](potree.gif)
 
