@@ -41,6 +41,15 @@ pdal pipeline atl03-pipeline.json
 3. Generate the EPT
 
 ```bash
-entwine build -i output.las -o entwine/atl03
+entwine build -i $(pwd)/output.las -o ~/entwine/atl03
 ```
+
+4. Visualize it 
+
+```bash
+docker run -it -v ~/entwine:/var/www -p 8080:8080 connormanning/http-server
+open https://potree.entwine.io/data/view.html?r=%22http://127.0.0.1:8080/atl03%22
+```
+
+
 
