@@ -26,7 +26,7 @@ TBD
 
 ### DataSets
 - ICESat-2 [ATL06](https://nsidc.org/data/atl06?qt-data_set_tabs=3#qt-data_set_tabs) (20 m resolution)
-- ICESat-2 ATL03 (geolocated points along track)
+- ICESat-2 [ATL03](https://nsidc.org/data/atl03) (geolocated points along track)
 - Bareground data ([LULC for US](https://www.mrlc.gov/data/legends/national-land-cover-database-2011-nlcd2011-legend) 
 - [ASO Lidar](https://nsidc.org/data/aso)
 - [WADNR Lidar](http://lidarportal.dnr.wa.gov/)
