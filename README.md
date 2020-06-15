@@ -1,5 +1,5 @@
 # SeasonalSnow
-IceSat-2 Snowdepth and SWE over mountains: a workflow using satellite laser altimetry to resolve topography/SWE(snow water equivalent) over complex terrain.
+IceSat-2 Snowdepth and SWE over mountains: a workflow using satellite laser altimetry to resolve topography/snow depth/ SWE(snow water equivalent) over complex terrain.
 
 ### General Objective
 Compare and evaluate ICESat-2 data with high resolution DEMs (airborne lidar/satellite stereo) collected at lower latitudes, charecterize accuracy and explore potential of seasonal SWE estimation. We will be building upon 2019 ICESat-2 HackWeek projects, namely [topohack](https://github.com/ICESAT-2HackWeek/topohack) and []().
@@ -11,7 +11,7 @@ Compare and evaluate ICESat-2 data with high resolution DEMs (airborne lidar/sat
 - Anna Valentine
 - Charlie Hewitt
 - Friedrich Knuth
-- Jawaria Ahmad
+- Jawairia Ahmad
 - Jordi Bolibar
 - Kat Sejan
 - Lucal Zeller
