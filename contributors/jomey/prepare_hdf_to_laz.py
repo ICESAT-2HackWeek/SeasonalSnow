@@ -29,7 +29,7 @@ def input_data(file, beam):
 def convert_hdf_columns(file, beam):
     (X, Y, Z, conf) = input_data(file, beam)
     input_file = PurePath(file)
-    output_file = input_file.parent / (input_file.stem + '_xyz_conf.h5')
+    output_file = input_file.parent / (input_file.stem + f'_{beam}_xyz_conf.h5')
     with h5py.File(output_file, 'w') as f:
         f['X'] = X  # write data
         f['Y'] = Y
