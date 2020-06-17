@@ -11,6 +11,7 @@ Compare and evaluate ICESat-2 data with high resolution DEMs (airborne lidar/sat
 - Friedrich Knuth
 - Jawaria Ahmad
 - Michelle Hu
+- Joachim Meyer
 
 ### Team Lead 
 Nina Argon
