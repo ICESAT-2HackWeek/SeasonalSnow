@@ -1,0 +1,15 @@
+ {
+    "pipeline": [
+        {
+            "type": "readers.las",
+	    "override_srs": "EPSG:7912"
+        },
+        {
+            "type": "writers.gdal",
+            "gdaldriver": "GTiff",
+            "gdalopts": "TILED=YES,COMPRESS=LZW,BIGTIFF=YES,NUM_THREADS=ALL_CPUS,SPARSE_OK=TRUE",
+            "data_type": "float32",
+            "resolution": 10.0
+        }
+    ]
+}
