@@ -1,7 +1,6 @@
 [
     {
         "type": "readers.hdf",
-        "filename": "/Path/To/ATL03.h5",
         "dimensions":
         {
             "X" : "X",
@@ -11,8 +10,7 @@
         }
     },
     {
-        "type" : "writers.las",
-        "filename": "/Path/To/ATL03.laz"
+        "type" : "writers.las"
     }
 ]
 
