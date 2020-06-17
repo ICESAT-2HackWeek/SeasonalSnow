@@ -1,18 +1,18 @@
 [
     {
         "type": "readers.hdf",
-        "filename": "/home/jovyan/shared/data-aragon/ATL03_CA/processed_ATL03_20191008182255_01810506_003_01.h5",
+        "filename": "/Path/To/ATL03.h5",
         "dimensions":
         {
-            "X" : "gt1r/heights/lon_ph",
-            "Y" : "gt1r/heights/lat_ph",
-            "Z" : "gt1r/heights/h_ph",
-            "Flag": "gt1r/heights/signal_conf_ph"
+            "X" : "X",
+            "Y" : "Y",
+            "Z" : "Z",
+            "UserData" : "conf"
         }
     },
     {
         "type" : "writers.las",
-        "filename": "/home/jovyan/shared/data-aragon/ATL03_CA/ATL03_CA_TE_gtlr.laz"
+        "filename": "/Path/To/ATL03.laz"
     }
 ]
 
