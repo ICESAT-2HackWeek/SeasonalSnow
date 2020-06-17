@@ -22,6 +22,9 @@ def input_data(file, beam):
         y = fi[f"./{beam}/heights/lat_ph"][:]
         z = fi[f"./{beam}/heights/h_ph"][:]
         conf = fi[f"./{beam}/heights/signal_conf_ph"][:, 0]
+        # Some photons are marked as -1 (unknown)
+        # LAZ spec gives a UInt for the 'UserData' flag and needs conversion
+        conf[conf < 0] = 127
 
         return x, y, z, conf
 
