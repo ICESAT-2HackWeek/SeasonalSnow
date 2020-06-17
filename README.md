@@ -6,17 +6,20 @@ Compare and evaluate ICESat-2 data with high resolution DEMs (airborne lidar/sat
 
 ## Collaborators
 - David Hill
-- Jared Klemm
 - Shashank Bhushan
 - Anna Valentine
-- Charlie Hewitt
 - Friedrich Knuth
+<<<<<<< HEAD
 - Jawairia Ahmad
 - Jordi Bolibar
 - Kat Sejan
 - Lucal Zeller
 - Michael Loso
+=======
+- Jawaria Ahmad
+>>>>>>> 7ff17806af507e4a8fbf6c4df41a0f1f009bae23
 - Michelle Hu
+- Joachim Meyer
 
 ### Team Lead 
 Nina Argon
