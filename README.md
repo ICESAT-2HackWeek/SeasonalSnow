@@ -5,21 +5,21 @@ IceSat-2 Snowdepth and SWE over mountains: a workflow using satellite laser alti
 Compare and evaluate ICESat-2 data with high resolution DEMs (airborne lidar/satellite stereo) collected at lower latitudes, charecterize accuracy and explore potential of seasonal SWE estimation. We will be building upon 2019 ICESat-2 HackWeek projects, namely [topohack](https://github.com/ICESAT-2HackWeek/topohack) and []().
 
 ## Collaborators
-- David Hill
-- Friedrich Knuth
-- Jawaria Ahmad
-- Michelle Hu
-- Aimee Barciauskas
-- Rosemary Willatt
-- Isobel Lawrence
+- [David Hill](https://github.com/dfosterhill)
+- [Friedrich Knuth](https://github.com/friedrichknuth)
+- [Jawaria Ahmad](https://github.com/JawairiaAA)
+- [Michelle Hu](https://github.com/jmichellehu)
+- [Aimee Barciauskas](https://github.com/abarciauskas-bgse)
+- [Rosemary Willatt](https://github.com/snowrosie)
+- [Isobel Lawrence](https://github.com/isobelrlawrence)
 
 ### Team Lead 
-Nina Argon
+[Nina Argon](https://github.com/nina-aragon)
 
 ### Data Science Leads
-Joachim Meyer
+[Joachim Meyer](https://github.com/jomey)
 
-Shashank Bhushan
+[Shashank Bhushan](https://github.com/ShashankBice)
 
 ### DataSets
 - ICESat-2 [ATL06](https://nsidc.org/data/atl06?qt-data_set_tabs=3#qt-data_set_tabs) (20 m resolution)
