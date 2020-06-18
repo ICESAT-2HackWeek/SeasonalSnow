@@ -6,18 +6,19 @@ Compare and evaluate ICESat-2 data with high resolution DEMs (airborne lidar/sat
 
 ## Collaborators
 - David Hill
-- Shashank Bhushan
-- Anna Valentine
 - Friedrich Knuth
 - Jawaria Ahmad
 - Michelle Hu
-- Joachim Meyer
+- Aimee Barciauskas
+- Rosemary Willatt
+- Isobel Lawrence
 
 ### Team Lead 
 Nina Argon
 
-### Data Science Lead
-TBD 
+### Data Science Leads
+Joachim Meyer
+Shashank Bhushan
 
 ### DataSets
 - ICESat-2 [ATL06](https://nsidc.org/data/atl06?qt-data_set_tabs=3#qt-data_set_tabs) (20 m resolution)
@@ -27,6 +28,7 @@ TBD
 - [ASO Lidar](https://nsidc.org/data/aso)
 - [WADNR Lidar](http://lidarportal.dnr.wa.gov/)
 - [C-SNOW](https://ees.kuleuven.be/apps/project-c-snow-data/)
+
 
 ### Tools
 - Python Scientific Analysis Stack, Geospatial Stack
@@ -42,7 +44,11 @@ TBD
 - Evaluate the accuaracy of the derived SWE.
 - Compare ATL03 with ATL06. Quantify uncetainty in snow volume estimates using snow depth derived using ATL03 vs ATL06.
 - Breakdown/analyse/process ATLO3 pointcloud using pdal.
-- Surface classification (snow/non-snow, wet-snow/dry snow) using ICESat-2 ATL03/ATL06 data.
+- Explore ATL03 and ATL07/ATL06 products over Sea-ice
+- Seasonal snow over sea-ice
+- Convert ATL03 data to entwine (cloud-optimised point cloud format) and visualise on potree
+- Bulk snodas download scripts
+- Compare ATL06 elevations with raster DEM
 
 ### Study Sites:
 - Areas with ground truth LiDAR/SWE estimates avalible (eg. Airborne Snow Observatory(ASO) sites)
