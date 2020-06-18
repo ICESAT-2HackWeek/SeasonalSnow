@@ -7,7 +7,7 @@ Compare and evaluate ICESat-2 data with high resolution DEMs (airborne lidar/sat
 ## Collaborators
 - [David Hill](https://github.com/dfosterhill)
 - [Friedrich Knuth](https://github.com/friedrichknuth)
-- [Jawaria Ahmad](https://github.com/JawairiaAA)
+- [Jawairia Ahmad](https://github.com/JawairiaAA)
 - [Michelle Hu](https://github.com/jmichellehu)
 - [Aimee Barciauskas](https://github.com/abarciauskas-bgse)
 - [Rosemary Willatt](https://github.com/snowrosie)
